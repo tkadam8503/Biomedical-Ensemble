@@ -1,4 +1,4 @@
-# 🧬 Project 3 — Biomedical Image Ensemble (OCTMNIST → Fallbacks)
+# Biomedical Image Ensemble (OCTMNIST → Fallbacks)
 
 A robust, Windows-safe, CPU-friendly notebook for grayscale medical image classification. The pipeline first tries **OCTMNIST (MedMNIST)** and automatically falls back to **FashionMNIST** or a tiny **synthetic** dataset so the full training–evaluation loop always runs.
 
